@@ -1,0 +1,26 @@
+{
+    "files.exclude": {
+        "**/tmp/**": true,
+        "**/.venv/**": true,
+        "**/.git/objects/**": true,
+        "**/.env": true,
+        "**/.git": true,
+    },
+    "files.watcherExclude": {
+        "**/tmp/**": true,
+        "**/.venv/**": true,
+        "**/.git/objects/**": true,
+        "**/.env": true,
+        "**/.git": true,
+    },
+    "search.exclude": {
+        "**/tmp/**": true,
+        "**/.venv/**": true,
+        "**/.git/objects/**": true,
+        "**/.env": true,
+        "**/.git": true,
+    },
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "search.followSymlinks": false
+}
