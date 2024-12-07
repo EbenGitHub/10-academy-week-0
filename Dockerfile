@@ -23,4 +23,5 @@ EXPOSE 8501
 WORKDIR /app/app
 
 # Run the Streamlit application
-CMD ["streamlit", "run", "dashboard.py", "--server.port=8501", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "dashboard.py"]
+# CMD ["streamlit", "run", "dashboard.py", "--server.port=8501", "--server.address=0.0.0.0"]
