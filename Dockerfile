@@ -17,7 +17,7 @@ COPY app /app/app
 COPY data /app/data
 
 # Expose the port Streamlit runs on
-EXPOSE 8501
+EXPOSE 10000
 
 # Change to the app directory where the Streamlit script is located
 WORKDIR /app/app
