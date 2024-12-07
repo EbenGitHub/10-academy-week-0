@@ -1,5 +1,8 @@
 # 10-academy-week-0
 
+- [GitHub Link](https://github.com/EbenGitHub/10-academy-week-0)
+- [Deployed Url Link](https://one0-academy-week-0-1.onrender.com/)
+
 - [Data Source](https://energydata.info/dataset/?q=Solar+Radiation+Measurement&vocab_regions=AFR)
 
 - Streamlit Commands
